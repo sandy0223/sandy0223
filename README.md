@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=600&size=29&duration=4982&pause=1000&color=42E4F7&background=FFFFFF00&width=435&lines=Sandeep+Behera+......)
 <br>
-🔭 I’m currently working on [PALS HUB SERVER](https://github.com/itxsoumya/pals_hub_server)<br>👯 I’m looking to collaborate on **express, React, Type Script**<br>🤝 I’m looking for help with **Web RTC**<br>🌱 I’m currently learning **React, Type Script, Tailwind**<br>💬 Ask me about **express, node, typescript**<br>⚡ Fun fact **I am a geek 😅**
+🔭 I’m currently working on **Modern webpage designs** )<br>👯 I’m looking to collaborate on **express, React, Type Script**<br>🤝 I’m looking for help with **Web RTC**<br>🌱 I’m currently learning **React, Type Script, Express**<br>💬 Ask me about **HTML , CSS, javascript**<br>⚡ Fun fact **I am a qiucklearner 😅**
 
 ![](./stuffs/line.gif)
 
