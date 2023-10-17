@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=600&size=29&duration=4982&pause=1000&color=42E4F7&background=FFFFFF00&width=435&lines=Sandeep+Behera+......)
 <br>
-🔭 I’m currently working on **Modern webpage designs** )<br>👯 I’m looking to collaborate on **express, React, Type Script**<br>🤝 I’m looking for help with **Web RTC**<br>🌱 I’m currently learning **React, Type Script, Express**<br>💬 Ask me about **HTML , CSS, javascript**<br>⚡ Fun fact **I am a qiucklearner 😅**
+🔭 I’m currently working on **Modern webpage designs** )<br>👯 I’m looking to collaborate on **Frontend stuffs**<br>🤝 I’m looking for help with **Web RTC**<br>🌱 I’m currently learning **React, Type Script, Express**<br>💬 Ask me about **HTML , CSS, javascript**<br>⚡ Fun fact **I am a qiucklearner 😅**
 
 ![](./stuffs/line.gif)
 
@@ -13,15 +13,15 @@
 ![](./stuffs/line.gif)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itxsoumya&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sandy0223&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itxsoumya&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itxsoumya&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy0223&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](./stuffs/line.gif)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=itx_soumya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Sandeep__03)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
