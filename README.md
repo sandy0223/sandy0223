@@ -38,7 +38,6 @@
 
 <!-- ![](./stuffs/line.gif) -->
 
-[![](https://visitcount.itsvg.in/api?id=sandy0223&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-![](./stuffs/line.gif)
+[![](https://visitcount.itsvg.in/api?id=sandy0216&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
