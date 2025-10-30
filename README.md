@@ -32,7 +32,7 @@
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
- ### 😂 Random Dev Meme --> 
+  
  <!-- <img src="https://rm.up.railway.app/" width="512px"/> --> ### 🙏 Thanks for Visiting my GitHub Profile! 
  ![](./stuffs/line.gif) <p align="center"> <img src="./stuffs/github-contribution.svg"> </p> <!-- ![](./stuffs/line.gif) --> 
  [![](https://visitcount.itsvg.in/api?id=sandy0216&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) 
