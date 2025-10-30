@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   <a href="https://twitter.com/thesbcode" target="_blank">
-    <img src="https://img.shields.io/badge/Peerlist-1A1A1A?style=for-the-badge&logo=peerlist&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Peerlist-1A1A1A?style=for-the-badge&logo=peerlist&logoColor=green"/>
   </a>
   <a href="https://twitter.com/Sandeep__03" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
