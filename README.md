@@ -2,9 +2,11 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00E6FE;">Sandeep Behera</span></h1>
 <h3 align="center">Frontend Developer | React Enthusiast | Quick Learner ⚡</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00E6FE&center=true&vCenter=true&width=550&lines=Frontend+Developer+💻;Crafting+beautiful+UIs+🌈;React+%7C+TypeScript+%7C+Express.js;Clean+Code+%7C+Modern+Designs+%7C+Learning+Everyday!" alt="Typing Animation" />
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Sandeep+Behera;Frontend+Developer+💻;Building+Modern+Web+Apps+🌐;Lifelong+Learner+and+Creator+⚡)
+
+</div>
 
 ---
 
