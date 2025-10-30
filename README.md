@@ -38,24 +38,16 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,bootstrap,tailwind,nestjs,linux,cpp,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,bootstrap,tailwind,vscode,git" />
 </p>
 
 ---
 
 ### 📦 Featured Projects
 
-#### 🌟 **Modern Shopping UI**
-🛒 Built a responsive React shopping interface with dynamic cart & category filtering.  
-🔗 [View Repository](https://github.com/sandy0223/modern-shopping-ui)
-
-#### ⚡ **Food Delivery Dashboard**
-📊 Admin dashboard to manage orders, products, and analytics with Express backend.  
-🔗 [View Repository](https://github.com/sandy0223/food-delivery-dashboard)
-
 #### 🌐 **Portfolio Website**
 🎨 Fully responsive portfolio built with React & Tailwind showcasing my projects.  
-🔗 [View Live Demo](https://sandy0223.github.io/portfolio)
+🔗 [View Live Demo](https://thesbcode.site)
 
 ---
 
@@ -83,20 +75,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
 
-### 🐦 Latest Tweet
-<p align="center">
-  <a href="https://twitter.com/Sandeep__03" target="_blank">
-    <img src="https://gtce.itsvg.in/api?username=Sandeep__03" />
-  </a>
-</p>
-
----
-
-### 🙏 Thanks for Visiting My Profile!
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sandy0223&label=Profile%20Views&color=00E6FE&icon=5&pretty=true" />
-</p>
-
----
